@@ -6,10 +6,10 @@ Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau 
 
 ### 📂 Featured Projects
 
-- 🔍 [Customer Churn Analysis using Python & Pandas](https://github.com/sangu0005/customer-churn-analysis)  
+- 🔍 [Customer Segmentation Using RFM + Power BI Dashboard](https://github.com/sangu0005/InternPro)  
   Exploratory analysis of telecom customer data to identify churn patterns. Includes data cleaning, visualization, and logistic regression.
 
-- 📊 [Pzza Sales Dashboard(SQL+Power BI)](https://github.com/sangu0005/pizza_sales)  
+- 📊 [Pzza Sales Dashboard(SQL+Power BI Dashboard)](https://github.com/sangu0005/pizza_sales)  
   Built an interactive dashboard for a retail chain to analyze monthly sales, revenue trends, and category performance.
 
 - 📈 [COVID-19 Data Insights with SQL](https://github.com/sangu0005/covid-sql-analysis)  
