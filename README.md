@@ -12,15 +12,11 @@ Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau 
 - 📊 [Pzza Sales Dashboard(SQL+Power BI Dashboard)](https://github.com/sangu0005/pizza_sales)  
   Built an interactive dashboard for a retail chain to analyze monthly sales, revenue trends, and category performance.
 
-- 📈 [COVID-19 Data Insights with SQL](https://github.com/sangu0005/covid-sql-analysis)  
-  Used SQL to extract insights from global COVID-19 data, including daily trends, regional breakdowns, and vaccination rates.
-
 ### 📚 Certifications
 
-- 🏆 Google Data Analytics Professional Certificate – Coursera
-- 🧠 SQL for Data Science – University of California, Davis (Coursera)
-- 📊 Excel to MySQL: Data Analysis and Visualization – Duke University
-- 
+- 🏆 Microsoft Power Bi Data Analytics Professional Certificate – Coursera
+- 🧠 Deloitte Data analytics job simulation 
+- 📊 Tata GenAi Powered Data analytics 
 **About Me**  
 - 🎓 I’m currently learning Data Analytics and Business Intelligence
 - 📊 Passionate about turning data into actionable insights
