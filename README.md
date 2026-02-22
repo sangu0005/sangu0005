@@ -1,6 +1,6 @@
 # Hello 👋👋
 
-Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau and Power BI.* This repository features projects on business analytics, financial insights, customer segmentation, and interactive dashboards. See below for selected work and links to detailed analyses.
+Welcome! I'm a data analytics enthusiast skilled in *Python,Machine Learning,Deep Learning,NLP,SQL, Excel,Tableau and Power BI * This repository features projects on business analytics, financial insights, customer segmentation, and interactive dashboards. See below for selected work and links to detailed analyses.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau 
 **About Me**  
 - 🎓 I’m currently learning  Data Science and Data Analytics
 - 📊 Passionate about turning data into actionable insights
-- 🧰 Tools: Python | SQL | Excel | Power BI | Tableau | Pandas | NumPy | Matplotlib
+- 🧰 Tools: Python | ML | DL | NLP | Pandas | NumPy | Matplotlib | SQL | Excel | Power BI | Tableau 
 - 💼 Actively building projects in exploratory data analysis (EDA), dashboards, and reporting
 - 📫 How to reach me: [sshallur2003@gmail.com]
 
