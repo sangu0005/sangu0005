@@ -12,6 +12,9 @@ Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau 
 - 📊 [Pzza Sales Dashboard(SQL+Power BI Dashboard)](https://github.com/sangu0005/pizza_sales)  
   Built an interactive dashboard for a retail chain to analyze monthly sales, revenue trends, and category performance.
 
+- 🚀 Retail Demand Forecasting using Machine Learning (https://github.com/sangu0005/Demand_Forecasting)
+  This project builds a Machine Learning model to predict retail demand based on historical transaction data to support inventory optimization and strategic planning.
+
 ### 📚 Certifications
 
 - 🏆 Microsoft Power Bi Data Analytics Professional Certificate – Coursera
