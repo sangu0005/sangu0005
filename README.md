@@ -15,16 +15,21 @@ Welcome! I'm a data analytics enthusiast skilled in *Python, SQL, Excel,Tableau 
 - 🚀 [Retail Demand Forecasting using Machine Learning](https://github.com/sangu0005/Demand_Forecasting)
   This project builds a Machine Learning model to predict retail demand based on historical transaction data to support inventory optimization and strategic planning.
 
+  ---
+
 ### 📚 Certifications
 
 - 🏆 Microsoft Power Bi Data Analytics Professional Certificate – Coursera
 - 🧠 Deloitte Data analytics job simulation 
-- 📊 Tata GenAi Powered Data analytics 
+- 📊 Tata GenAi Powered Data analytics
+
+---
+  
 **About Me**  
-- 🎓 I’m currently learning Data Analytics and Business Intelligence
+- 🎓 I’m currently learning  Data Science and Data Analytics
 - 📊 Passionate about turning data into actionable insights
 - 🧰 Tools: Python | SQL | Excel | Power BI | Tableau | Pandas | NumPy | Matplotlib
 - 💼 Actively building projects in exploratory data analysis (EDA), dashboards, and reporting
-- 📫 How to reach me: [sshallur2003@gmail.com] | [https://www.linkedin.com/in/sangamesh-hallur-8a1278372]
+- 📫 How to reach me: [sshallur2003@gmail.com]
 
 
