@@ -6,7 +6,7 @@ Welcome! I'm a data analytics enthusiast skilled in **Python,Machine Learning,De
 
 ### 📂 Featured Projects
 
-- ⚡ [Electricity Demand Forecasting] (https://github.com/sangu0005/Electricity Demand Forecasting)
+- ⚡ [Electricity Demand Forecasting](https://github.com/sangu0005/Electricity_Demand_Forecasting)
 - End-to-end electricity demand forecasting pipeline covering data cleaning, time-series feature engineering, and XGBoost modeling.
 
 - 🔍 [Customer Segmentation Using RFM + Power BI Dashboard](https://github.com/sangu0005/InternPro)  
