@@ -1,38 +1,123 @@
-# Hello 👋👋
+<h1 align="center">Hi there, I'm Sangamesh Hallur 👋</h1>
 
-Welcome! I'm a data analytics enthusiast skilled in **Python,Machine Learning,Deep Learning,NLP,SQL, Excel,Tableau and Power BI** This repository features projects on business analytics, financial insights, customer segmentation, and interactive dashboards. See below for selected work and links to detailed analyses.
+<p align="center">
+  <em>Data Science & Analytics enthusiast | Turning raw data into real decisions</em>
+</p>
+
+<p align="center">
+  <a href="mailto:sshallur2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sangamesh-hallur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sangu0005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 **B.E. Data Science** student at Sri Siddhartha Institute of Technology, Bengaluru (2026)
+- 📊 Passionate about transforming complex datasets into clear, actionable business insights
+- 💡 Experienced in end-to-end analytics — from raw data wrangling to interactive dashboards
+- 🌱 Currently deepening skills in Machine Learning, Deep Learning, and NLP
+- 💼 Actively seeking entry-level **Data Analyst / BI Analyst** roles
+- 📫 Reach me at: **sshallur2003@gmail.com**
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-- ⚡ [Electricity Demand Forecasting](https://github.com/sangu0005/Electricity_Demand_Forecasting)
-     End-to-end electricity demand forecasting pipeline covering data cleaning, time-series feature engineering, and XGBoost modeling.
+### 👨‍💻 Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- 🔍 [Customer Segmentation Using RFM + Power BI Dashboard](https://github.com/sangu0005/InternPro)  
-  Exploratory analysis of telecom customer data to identify churn patterns. Includes data cleaning, visualization, and logistic regression.
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=python&logoColor=white)
 
-- 📊 [Pzza Sales Dashboard(SQL+Power BI Dashboard)](https://github.com/sangu0005/pizza_sales)  
-  Built an interactive dashboard for a retail chain to analyze monthly sales, revenue trends, and category performance.
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-- 🚀 [Retail Demand Forecasting using Machine Learning](https://github.com/sangu0005/Demand_Forecasting)
-  This project builds a Machine Learning model to predict retail demand based on historical transaction data to support inventory optimization and strategic planning.
-
-  ---
-
-### 📚 Certifications
-
-- 🏆 Microsoft Power Bi Data Analytics Professional Certificate – Coursera
-- 🧠 Deloitte Data analytics job simulation 
-- 📊 Tata GenAi Powered Data analytics
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-  
-**About Me**  
-- 🎓 I’m currently learning  Data Science and Data Analytics
-- 📊 Passionate about turning data into actionable insights
-- 🧰 Tools: Python | ML | DL | NLP | Pandas | NumPy | Matplotlib | SQL | Excel | Power BI | Tableau 
-- 💼 Actively building projects in exploratory data analysis (EDA), dashboards, and reporting
-- 📫 How to reach me: [sshallur2003@gmail.com]
 
+## 📂 Featured Projects
 
+### ⚡ [Electricity Demand Forecasting](https://github.com/sangu0005/Electricity_Demand_Forecasting)
+> End-to-end demand forecasting pipeline for electricity consumption using time-series analysis and XGBoost.
+- 🔧 Data cleaning, time-series feature engineering, and lag/rolling feature creation
+- 📈 XGBoost model with hyperparameter tuning for accurate short-term demand prediction
+- 🧰 **Stack:** Python · Pandas · XGBoost · Matplotlib · Seaborn
+
+---
+
+### 🔍 [Customer Segmentation Using RFM + Power BI Dashboard](https://github.com/sangu0005/InternPro)
+> Segmented telecom customers using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering.
+- 📦 Built end-to-end customer profiling with actionable cluster insights
+- 📊 Delivered an interactive Power BI dashboard for business stakeholder review
+- 🧰 **Stack:** Python · Pandas · Scikit-Learn · Power BI · Excel
+
+---
+
+### 🍕 [Pizza Sales Dashboard (SQL + Power BI)](https://github.com/sangu0005/pizza_sales)
+> Interactive sales analytics dashboard for a pizza chain covering revenue, category trends, and peak performance.
+- 🔎 SQL queries for KPI extraction — total revenue, order volume, bestsellers
+- 📊 Power BI dashboard with slicers, drill-throughs, and time-based trend analysis
+- 🧰 **Stack:** MySQL · Power BI · DAX · Excel
+
+---
+
+### 🚀 [Retail Demand Forecasting using Machine Learning](https://github.com/sangu0005/Demand_Forecasting)
+> ML pipeline to forecast retail product demand from historical transaction data for inventory optimization.
+- 🤖 Compared multiple regression models; achieved **82% accuracy** on test set
+- 📦 Supports strategic planning by identifying high-demand SKUs and seasonal patterns
+- 🧰 **Stack:** Python · Scikit-Learn · Pandas · Matplotlib · XGBoost
+
+---
+
+## 🏆 Certifications
+
+| Badge | Certification |
+|---|---|
+| 🏆 | **Microsoft Power BI Data Analytics Professional Certificate** – Coursera |
+| 🧠 | **Deloitte Data Analytics Job Simulation** – Forage |
+| 🤖 | **Tata GenAI-Powered Data Analytics** – Forage |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangu0005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangu0005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangu0005&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangu0005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <em>⭐ If you find my work interesting, consider giving a star to the repositories!</em>
+</p>
