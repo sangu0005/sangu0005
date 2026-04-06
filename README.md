@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.E. Data Science** student at Sri Siddhartha Institute of Technology, Bengaluru (2026)
+- 🎓 **B.E. Data Science** student at Sri Siddhartha Institute of Technology, Tumakuru (2026)
 - 📊 Passionate about transforming complex datasets into clear, actionable business insights
 - 💡 Experienced in end-to-end analytics — from raw data wrangling to interactive dashboards
 - 🌱 Currently deepening skills in Machine Learning, Deep Learning, and NLP
