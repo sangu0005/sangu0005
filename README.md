@@ -1,116 +1,203 @@
-<h1 align="center">Hi there, I'm Sangamesh Hallur 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Software Developer | Building scalable web apps & data-driven products</em>
-</p>
+<a href="https://github.com/sangu0005">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=38&duration=1&pause=100000&color=2ECC71&center=true&vCenter=true&repeat=false&width=650&height=60&lines=Hey+there%2C+I'm+Sangamesh+Hallur" alt="Sangamesh Hallur" />
+</a>
+<br/>
 
-<p align="center">
-  <a href="mailto:sshallur2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sangamesh-hallur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sangu0005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/sangu0005">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=22&duration=3000&pause=800&color=27AE60&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%92%BB;Building+Scalable+Web+Apps;Data+Analyst;Data+Scientist" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/sangu0005?tab=followers">
+  <img src="https://img.shields.io/github/followers/sangu0005?label=Followers&style=for-the-badge&color=2ECC71&labelColor=1a1a1a" />
+</a>
+<a href="https://github.com/sangu0005">
+  <img src="https://img.shields.io/github/stars/sangu0005?label=Stars&style=for-the-badge&color=27AE60&labelColor=1a1a1a" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=sangu0005&label=Profile+Views&style=for-the-badge&color=A8E6A1&labelColor=1a1a1a" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👋 Hi, I'm Sangamesh Hallur
+
+🎓 **B.E. Computer Science & Engineering (Data Science)**  
+📍 Sri Siddhartha Institute of Technology, Tumakuru (2022 – 2026)
+
+---
+
+### 🚀 What I'm Working On
+
+- 💻 Building **scalable Full-Stack Web Applications**
+- 🌐 Developing responsive frontends with **React**
+- ⚙️ Creating secure backend APIs using **Node.js, Express & Django**
+- 🐳 Learning **Docker**, CI/CD, and cloud deployment workflows
+- 📊 Applying **Data Analytics & Machine Learning** to solve real-world problems
+- 🧩 Solving **Data Structures & Algorithms** problems on LeetCode
 
 ---
 
-## 🙋‍♂️ About Me
+### 🎯 Career Goal
 
-- 🎓 **B.E. Data Science** student at Sri Siddhartha Institute of Technology, Tumakuru (2026)
-- 💻 Software Developer who enjoys building full-stack web applications end-to-end
-- 🌐 Comfortable across the stack — frontend UI, backend APIs, databases, and deployment
-- 🐳 Currently leveling up on Docker, containerized deployments, and CI/CD pipelines
-- 🤖 Bring a data & ML background into the apps I build — analytics-aware engineering
-- 💼 Actively seeking entry-level **Software Developer / Full-Stack Developer** roles
-- 📫 Reach me at: **sshallur2003@gmail.com**
+I'm passionate about building products that are fast, scalable, and user-focused.
 
----
+Currently seeking **Software Developer**, **Full-Stack Developer**, and **Backend Developer** opportunities where I can contribute while continuously learning.
 
-## 🛠️ Tech Stack & Skills
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</td>
 
-### ⚙️ Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<td width="40%" align="center">
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
 
-### 🐳 DevOps, Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br><br>
 
-### 🤖 Data & ML (Bonus Background)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%" />
 
----
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Web Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=light" />
+
+<br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=light" />
+
+<br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle&theme=light" />
+
+<br/>
+
+**DevOps, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,linux,vscode&theme=light" />
+
+<br/>
+
+**Data & ML**
+
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow&theme=light" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
 
 ## 📂 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%">
+
 ### ⚡ [Electricity Demand Forecasting](https://github.com/sangu0005/Electricity_Demand_Forecasting)
-> End-to-end demand forecasting pipeline for electricity consumption using time-series analysis and XGBoost.
-- 🔧 Data cleaning, time-series feature engineering, and lag/rolling feature creation
-- 📈 XGBoost model with hyperparameter tuning for accurate short-term demand prediction
-- 🧰 **Stack:** Python · Pandas · XGBoost · Matplotlib · Seaborn
+End-to-end demand forecasting pipeline using time-series analysis and XGBoost.
+- Lag/rolling feature engineering
+- Tuned XGBoost model for short-term demand prediction
+- **Stack:** Python · Pandas · XGBoost · Matplotlib
 
----
+</td>
+<td width="50%">
 
-### 🔍 [Customer Segmentation Using RFM + Power BI Dashboard](https://github.com/sangu0005/InternPro)
-> Segmented telecom customers using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering.
-- 📦 Built end-to-end customer profiling with actionable cluster insights
-- 📊 Delivered an interactive Power BI dashboard for business stakeholder review
-- 🧰 **Stack:** Python · Pandas · Scikit-Learn · Power BI · Excel
+### 🔍 [Customer Segmentation (RFM + Power BI)](https://github.com/sangu0005/InternPro)
+Segmented telecom customers via RFM analysis and K-Means clustering.
+- End-to-end customer profiling
+- Interactive Power BI stakeholder dashboard
+- **Stack:** Python · Scikit-Learn · Power BI
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🍕 [Pizza Sales Dashboard (SQL + Power BI)](https://github.com/sangu0005/pizza_sales)
-> Interactive sales analytics dashboard for a pizza chain covering revenue, category trends, and peak performance.
-- 🔎 SQL queries for KPI extraction — total revenue, order volume, bestsellers
-- 📊 Power BI dashboard with slicers, drill-throughs, and time-based trend analysis
-- 🧰 **Stack:** MySQL · Power BI · DAX · Excel
+### 🍕 [Pizza Sales Dashboard](https://github.com/sangu0005/pizza_sales)
+Interactive sales analytics dashboard for a pizza chain.
+- SQL KPI extraction — revenue, orders, bestsellers
+- Power BI dashboard with slicers & drill-throughs
+- **Stack:** MySQL · Power BI · DAX
 
----
+</td>
+<td width="50%">
 
-### 🚀 [Retail Demand Forecasting using Machine Learning](https://github.com/sangu0005/Demand_Forecasting)
-> ML pipeline to forecast retail product demand from historical transaction data for inventory optimization.
-- 🤖 Compared multiple regression models; achieved **82% accuracy** on test set
-- 📦 Supports strategic planning by identifying high-demand SKUs and seasonal patterns
-- 🧰 **Stack:** Python · Scikit-Learn · Pandas · Matplotlib · XGBoost
+### 🚀 [Retail Demand Forecasting](https://github.com/sangu0005/Demand_Forecasting)
+ML pipeline forecasting retail product demand for inventory optimization.
+- Compared regression models — **82% accuracy**
+- Identified high-demand SKUs & seasonal patterns
+- **Stack:** Python · Scikit-Learn · XGBoost
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
 
-| Badge | Certification |
-|---|---|
-| 🏆 | **Microsoft Power BI Data Analytics Professional Certificate** – Coursera |
-| 🧠 | **Deloitte Data Analytics Job Simulation** – Forage |
-| 🤖 | **Tata GenAI-Powered Data Analytics** – Forage |
+## 📊 GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sangu0005&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangu0005&theme=github-dark&hide_border=true" width="98%" />
 
-<p align="center">
-  <em>⭐ If you find my work interesting, consider giving a star to the repositories!</em>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![snake gif](https://github.com/sangu0005/sangu0005/blob/output/github-snake-dark.svg)
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F9B0F,50:2ECC71,100:A8E6A1&height=3&width=100%" width="100%" alt="divider"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sshallur2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0F9B0F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sangamesh-hallur" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sangu0005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<em>⭐ If you find my work interesting, consider giving a star to the repositories!</em>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6A1,50:2ECC71,100:0F9B0F&height=150&section=footer" width="100%"/>
